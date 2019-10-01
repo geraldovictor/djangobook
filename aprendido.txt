@@ -1,0 +1,2 @@
+em relacionamentos 1 para 1 
+models.OneToOneField(classe que deseja fazer o relacionamento)
